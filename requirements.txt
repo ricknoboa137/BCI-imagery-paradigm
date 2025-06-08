@@ -1,0 +1,15 @@
+# python==3.10.10 # Or 3.10, 3.11, ensuring compatibility with libraries below
+tensorflow==2.14.0  # Or a compatible version like 2.12.0, 2.14.0. Check for GPU support.
+keras==2.14.0 # Will be installed with TensorFlow.
+mne==1.4.1 # Or a recent stable version.
+pylsl==1.16.2 # Or a recent stable version.
+pygame==2.5.2 # Or a recent stable version.
+numpy==1.23.5 # Or a compatible version with TensorFlow.
+scipy==1.9.3 # Or a compatible version with MNE.
+scikit-learn==1.3.0 # Or a recent stable version.
+matplotlib==3.7.2 # For plotting and visualization.
+seaborn
+mindrove # This is a placeholder; replace with actual sensor API
+# If MindRove SDK is a direct download or custom installation, you'll need to follow their instructions.
+# Assuming mindrove package is available via pip, otherwise, specific instructions are needed.
+
