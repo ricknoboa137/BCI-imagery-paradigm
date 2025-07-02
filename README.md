@@ -13,7 +13,7 @@ It is highly recommended to use a virtual environment to manage project dependen
 
 Navigate to your project's root directory (where requirements.txt is located) in your terminal or command prompt and run:
 ```sh
-conda create -n bci_env python=3.10.10
+conda create -n bci_env python==3.10.10
 ```
 
 ## 3. Activate the Virtual Environment
